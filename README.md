@@ -1,7 +1,7 @@
 # Fraud-Detection-System-for-Financial-Transactions-
 Fraud Detection System for Financial Transactions | Month 1 ProjectBuilt a real-time fraud detection pipeline using ML techniques on historical transaction data.
 
-Tech Stack: Python | Pandas | NumPy | Scikit-learn | XGBoost | SQL | Streamlit | Jupyter
+Tech Stack: Python | Pandas | NumPy | Scikit-learn | XGBoost | SQL | Streamlit | Jupyter Notebook
 
 Key Highlights:
 
