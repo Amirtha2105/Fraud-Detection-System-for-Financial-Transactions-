@@ -42,11 +42,11 @@ Financial institutions must proactively detect fraudulent activities in massive 
 
 ## Future Improvements
 
-- Use deep learning for sequential fraud pattern detection  
-- Integrate real-time data via APIs  
-- Implement advanced anomaly detection techniques
+- Can use deep learning for sequential fraud pattern detection  
+- Can Integrate real-time data via APIs  
+- Also this can be implemented advanced anomaly detection techniques
 
-## 📂 Folder Structure
+## Folder Structure
 
 ├── fraud2/ # Jupyter notebook for EDA, feature engineering, modeling and deployment
 
